@@ -1,4 +1,4 @@
-# Sentiment Analysis without nltk
+# Sentiment Analysis from Scratch
 
 This project implements a sentiment analysis system from scratch, focusing on extracting insights from text data and predicting sentiment labels. The notebook demonstrates the entire process, including data loading, preprocessing, exploratory data analysis (EDA), and model building.
 
